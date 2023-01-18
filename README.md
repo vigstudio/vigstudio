@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![VigStudio's GitHub stats](https://readme-stats.clckblog.space/api?username=vigstudio)](https://github.com/vigstudio)
-[![VigStudio's GitHub stats](https://readme-stats.clckblog.space/api/wakatime?username=vigstudio)](https://github.com/vigstudio)
 
 - 🔭 I’m currently working on Water Care - https://watercare.vn
 
