@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # VigStudio
 [![VigStudio's GitHub stats](https://readme-stats.clckblog.space/api?username=vigstudio)]()
+[![VigStudio's GitHub stats](https://readme-stats.clckblog.space/api/wakatime?username=willianrod)](https://github.com/vigstudio)
 
 - 🔭 I’m currently working on Water Care - https://watercare.vn
 
