@@ -2,7 +2,9 @@
 
 ## I am [Phạm Viết Nghĩa](https://nghiane.com/)
 
-Welcome to my page! </br> I'm Nghĩa, Fullstack developer from ![Viet Nam](https://cdn-icons-png.flaticon.com/512/5373/5373330.png)
+<p>
+Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5373/5373330.png" width="13"/>
+</p>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=laravel&color=red&logoColor=white)
 ![Laravel Livewire](https://img.shields.io/badge/Livewire-Laravel-white?style=for-the-badge&logo=livewire&color=violet&logoColor=white)
