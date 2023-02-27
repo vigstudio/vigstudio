@@ -13,6 +13,7 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+![Bobtle CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Botble+CMS&color=2980b9&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAACxUExURSBQgSBQgSBQgSFRgiJSgh9QgShWhpCowFR5nx1Ofx9PgDVgjdzj62eIqRxNf9nh6maHqBtMfh5PgNnh6WqKqzZhjTplkCNTg9ri6tLc5tvj697l7Ka5zTRgjd/m7WiIqdXe56G2ytzk63aUsmSFp2mJqnCPrjRgjB9PgS1aidHb5YSeuVN4nlZ7oF6BpDFei4agu+Pp746mv0tymVp9oilXhoKduMzX4ipYhydWhf///25Bk8oAAAACdFJOU/z+lJ+8kgAAAAFiS0dEOk4JxPoAAAAHdElNRQfnAhsIISsUfb9/AAAAfUlEQVQI12NgYEQGDAxMTEzMLExQAOSysrFzcCK4XNw8vHzIXH4BQSEkrrCIqJg4F5wrISklLSPKBeXKykmIyCsossBklZRVVNUk1LnAXA1NLW0dXT0tfQiXicvA0MjYxABqFJOGqZm5mYWpBpTLpCFkaqnBCpMFCbBCnAEA9Z4J78AatE8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDItMjdUMDg6MzM6MzcrMDA6MDALa5LzAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAyLTI3VDA4OjMzOjM3KzAwOjAwejYqTwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMi0yN1QwODozMzo0MyswMDowMNOpJpoAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAAElFTkSuQmCC&logoColor=FFFFFF&label=)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
