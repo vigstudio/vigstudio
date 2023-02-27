@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ## I am [Phạm Viết Nghĩa](https://nghiane.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=vigstudio.vigstudio)
 
 <p>
 Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5373/5373330.png" width="13"/>
@@ -17,6 +18,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 ![Bobtle CMS](https://img.shields.io/static/v1?style=for-the-badge&message=Botble+CMS&color=2980b9&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAACxUExURSBQgSBQgSBQgSFRgiJSgh9QgShWhpCowFR5nx1Ofx9PgDVgjdzj62eIqRxNf9nh6maHqBtMfh5PgNnh6WqKqzZhjTplkCNTg9ri6tLc5tvj697l7Ka5zTRgjd/m7WiIqdXe56G2ytzk63aUsmSFp2mJqnCPrjRgjB9PgS1aidHb5YSeuVN4nlZ7oF6BpDFei4agu+Pp746mv0tymVp9oilXhoKduMzX4ipYhydWhf///25Bk8oAAAACdFJOU/z+lJ+8kgAAAAFiS0dEOk4JxPoAAAAHdElNRQfnAhsIISsUfb9/AAAAfUlEQVQI12NgYEQGDAxMTEzMLExQAOSysrFzcCK4XNw8vHzIXH4BQSEkrrCIqJg4F5wrISklLSPKBeXKykmIyCsossBklZRVVNUk1LnAXA1NLW0dXT0tfQiXicvA0MjYxABqFJOGqZm5mYWpBpTLpCFkaqnBCpMFCbBCnAEA9Z4J78AatE8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDItMjdUMDg6MzM6MzcrMDA6MDALa5LzAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAyLTI3VDA4OjMzOjM3KzAwOjAwejYqTwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMi0yN1QwODozMzo0MyswMDowMNOpJpoAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAAElFTkSuQmCC&logoColor=FFFFFF&label=)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
 
