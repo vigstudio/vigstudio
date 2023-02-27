@@ -14,6 +14,6 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
-![image](https://user-images.githubusercontent.com/34742453/221502143-213bfdfa-02d6-4da9-9efd-7d94522fd01b.png)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
