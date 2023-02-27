@@ -19,9 +19,6 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
 
 # Blog posts
