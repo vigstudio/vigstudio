@@ -6,9 +6,13 @@
 Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5373/5373330.png" width="13"/>
 </p>
 
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=laravel&color=red&logoColor=white)
-![Laravel Livewire](https://img.shields.io/badge/Livewire-Laravel-white?style=for-the-badge&logo=livewire&color=violet&logoColor=white)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=4E56A6&logo=Livewire&logoColor=FFFFFF&label=)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
 ![image](https://user-images.githubusercontent.com/34742453/221502143-213bfdfa-02d6-4da9-9efd-7d94522fd01b.png)
 
