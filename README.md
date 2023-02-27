@@ -17,3 +17,7 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
