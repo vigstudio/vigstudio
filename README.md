@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
 - [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
 - [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
 - [Epic Game tặng  Miễn phí game Control](https://nghiane.com/epic-game-tang-mien-phi-game-control)
 - [Laravel tính số ngày làm việc khi có ngày bắt đầu và số ngày phải hoàn thành](https://nghiane.com/laravel-tinh-so-ngay-lam-viec-khi-co-ngay-bat-dau-va-so-ngay-phai-hoan-thanh)
-- [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
 <!-- BLOG-POST-LIST:END -->
