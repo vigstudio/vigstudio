@@ -23,8 +23,8 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
 - [Laravel gửi lỗi người dùng đến Slack](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
+- [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
 - [Vime thư viện HTML5 Player vừa đẹp mà vừa ngon](https://nghiane.com/vime-thu-vien-html5-player-vua-dep-ma-vua-ngon)
 - [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
