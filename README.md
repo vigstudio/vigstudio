@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
 - [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
 - [Vime thư viện HTML5 Player vừa đẹp mà vừa ngon](https://nghiane.com/vime-thu-vien-html5-player-vua-dep-ma-vua-ngon)
 - [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
-- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 <!-- BLOG-POST-LIST:END -->
