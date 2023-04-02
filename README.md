@@ -23,8 +23,8 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
+- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 - [Laravel gửi lỗi người dùng đến Slack](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
 - [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
 - [Vime thư viện HTML5 Player vừa đẹp mà vừa ngon](https://nghiane.com/vime-thu-vien-html5-player-vua-dep-ma-vua-ngon)
