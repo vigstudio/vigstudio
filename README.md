@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
+- [Tào lao về chuyện cô gái tham gia game show hẹn hò và đòi hỏi yêu cầu trên trời](https://nghiane.com/tao-lao-ve-chuyen-co-gai-tham-gia-game-show-hen-ho-va-doi-hoi-yeu-cau-tren-troi)
+- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 - [Vime thư viện HTML5 Player vừa đẹp mà vừa ngon](https://nghiane.com/vime-thu-vien-html5-player-vua-dep-ma-vua-ngon)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
-- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
-- [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
-- [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
 <!-- BLOG-POST-LIST:END -->
