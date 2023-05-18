@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
-- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 - [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
+- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
+- [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
 - [Laravel tính số ngày làm việc khi có ngày bắt đầu và số ngày phải hoàn thành](https://nghiane.com/laravel-tinh-so-ngay-lam-viec-khi-co-ngay-bat-dau-va-so-ngay-phai-hoan-thanh)
 - [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 <!-- BLOG-POST-LIST:END -->
