@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
+- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 - [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
+- [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
-- [Tào lao về chuyện cô gái tham gia game show hẹn hò và đòi hỏi yêu cầu trên trời](https://nghiane.com/tao-lao-ve-chuyen-co-gai-tham-gia-game-show-hen-ho-va-doi-hoi-yeu-cau-tren-troi)
 <!-- BLOG-POST-LIST:END -->
