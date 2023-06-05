@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vime thư viện HTML5 Player vừa đẹp mà vừa ngon](https://nghiane.com/vime-thu-vien-html5-player-vua-dep-ma-vua-ngon)
 - [Tào lao về chuyện cô gái tham gia game show hẹn hò và đòi hỏi yêu cầu trên trời](https://nghiane.com/tao-lao-ve-chuyen-co-gai-tham-gia-game-show-hen-ho-va-doi-hoi-yeu-cau-tren-troi)
 - [Tạo hệ thống comment đơn giản với Livewire Comment](https://nghiane.com/tao-he-thong-comment-don-gian-voi-livewire-comment)
 - [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Laravel gửi lỗi người dùng đến Slack](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
-- [Epic Game tặng  Miễn phí game Control](https://nghiane.com/epic-game-tang-mien-phi-game-control)
 <!-- BLOG-POST-LIST:END -->
