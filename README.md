@@ -23,8 +23,8 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
+- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 - [Laravel tính số ngày làm việc khi có ngày bắt đầu và số ngày phải hoàn thành](https://nghiane.com/laravel-tinh-so-ngay-lam-viec-khi-co-ngay-bat-dau-va-so-ngay-phai-hoan-thanh)
 - [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 - [Học lập trình bắt đầu từ đâu](https://nghiane.com/hoc-lap-trinh-bat-dau-tu-dau)
