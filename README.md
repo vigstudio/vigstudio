@@ -23,8 +23,8 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
+- [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Epic Game tặng  Miễn phí game Control](https://nghiane.com/epic-game-tang-mien-phi-game-control)
 - [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 - [Tào lao về chuyện cô gái tham gia game show hẹn hò và đòi hỏi yêu cầu trên trời](https://nghiane.com/tao-lao-ve-chuyen-co-gai-tham-gia-game-show-hen-ho-va-doi-hoi-yeu-cau-tren-troi)
