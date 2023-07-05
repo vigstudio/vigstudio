@@ -23,9 +23,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel gửi lỗi người dùng đến Email](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-email)
 - [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
 - [Tạo Desktop Notification đơn giản và dể hiểu](https://nghiane.com/tao-desktop-notification-don-gian-va-de-hieu)
 - [Cách đánh số thứ tự nhiều lớp trong vòng lặp đệ quy với Laravel](https://nghiane.com/cach-danh-so-thu-tu-nhieu-lop-trong-vong-lap-de-quy-voi-laravel)
 - [Mình đã tìm thấy lỗ hổng để xoá kết quả bài thi trên MyA***a](https://nghiane.com/minh-da-tim-thay-lo-hong-de-xoa-ket-qua-bai-thi-tren-myaha)
-- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
 <!-- BLOG-POST-LIST:END -->
