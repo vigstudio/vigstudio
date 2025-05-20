@@ -19,6 +19,16 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<p>
+  <a href="https://vaunt.dev">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/vigstudio/contributions?format=svg"
+      width="350"
+      title="Includes public contributions"
+    />
+  </a>
+</p>
+
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
 
 # Blog posts
