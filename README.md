@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ## I am [Phạm Viết Nghĩa](https://nghiane.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=vigstudio.vigstudio)
 
 <p>
 Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5373/5373330.png" width="13"/>
