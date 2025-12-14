@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hướng Dẫn Tạo Ảnh Trend Nhân Vật Đồ chơi 3D, nhân vật đồ chơi được đóng gói Bằng AI](https://nghiane.com/huong-dan-tao-anh-trend-nhan-vat-do-choi-3d-nhan-vat-do-choi-duoc-dong-goi-bang-ai)
-- [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
-- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
-- [Mình đã tìm thấy lỗ hổng để xoá kết quả bài thi trên MyA***a](https://nghiane.com/minh-da-tim-thay-lo-hong-de-xoa-ket-qua-bai-thi-tren-myaha)
-- [Laravel gửi lỗi người dùng đến Slack](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
+- [Hướng Dẫn Tạo Ảnh Trend Nhân Vật Đồ chơi 3D, nhân vật đồ chơi được đóng gói Bằng AI](http://nghiane.com/huong-dan-tao-anh-trend-nhan-vat-do-choi-3d-nhan-vat-do-choi-duoc-dong-goi-bang-ai)
+- [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](http://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
+- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](http://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
+- [Mình đã tìm thấy lỗ hổng để xoá kết quả bài thi trên MyA***a](http://nghiane.com/minh-da-tim-thay-lo-hong-de-xoa-ket-qua-bai-thi-tren-myaha)
+- [Laravel gửi lỗi người dùng đến Slack](http://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
 <!-- BLOG-POST-LIST:END -->
