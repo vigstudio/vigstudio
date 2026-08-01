@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hướng Dẫn Tạo Ảnh Trend Nhân Vật Đồ chơi 3D, nhân vật đồ chơi được đóng gói Bằng AI](https://nghiane.com/huong-dan-tao-anh-trend-nhan-vat-do-choi-3d-nhan-vat-do-choi-duoc-dong-goi-bang-ai)
-- [Laravel domPDF cách tùy biến Font chữ bất chấp mọi thể loại](https://nghiane.com/laravel-dompdf-cach-tuy-bien-font-chu-bat-chap-moi-the-loai)
-- [Hướng dẫn gửi thông báo lỗi đến Slack ở Botble CMS](https://nghiane.com/huong-dan-gui-thong-bao-loi-den-slack-o-botble-cms)
-- [Mình đã tìm thấy lỗ hổng để xoá kết quả bài thi trên MyA***a](https://nghiane.com/minh-da-tim-thay-lo-hong-de-xoa-ket-qua-bai-thi-tren-myaha)
-- [Laravel gửi lỗi người dùng đến Slack](https://nghiane.com/laravel-gui-loi-nguoi-dung-den-slack)
+- [Epic tặng OTXO và Sol Cesto: hai roguelite rất khác nhau](https://nghiane.com/epic-tang-otxo-va-sol-cesto-hai-roguelite-rat-khac-nhau)
+- [Godot 4.8 dev2: Mình chạy thử trước khi nâng cấp](https://nghiane.com/godot-48-dev2-minh-chay-thu-truoc-khi-nang-cap)
+- [Figma Auto Layout mới gần CSS Flexbox hơn ở đâu?](https://nghiane.com/figma-auto-layout-moi-gan-css-flexbox-hon)
+- [Partial function application PHP 8.6: Mình thử thực tế](https://nghiane.com/partial-function-application-php-86-thuc-te)
+- [Mình thử CPX 2.0: Chạy package Composer không cần cài](https://nghiane.com/minh-thu-cpx-2-chay-package-composer-khong-can-cai)
 <!-- BLOG-POST-LIST:END -->
