@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xbox tương thích ngược trên PC: 4 game đầu có gì?](https://nghiane.com/xbox-tuong-thich-nguoc-pc-bon-game-dau)
 - [CSS text-fit: Mình thử tiêu đề tiếng Việt trên Chrome 150](https://nghiane.com/css-text-fit-tieu-de-tieng-viet-chrome-150)
 - [Epic tặng OTXO và Sol Cesto: hai roguelite rất khác nhau](https://nghiane.com/epic-tang-otxo-va-sol-cesto-hai-roguelite-rat-khac-nhau)
 - [Godot 4.8 dev2: Mình chạy thử trước khi nâng cấp](https://nghiane.com/godot-48-dev2-minh-chay-thu-truoc-khi-nang-cap)
 - [Figma Auto Layout mới gần CSS Flexbox hơn ở đâu?](https://nghiane.com/figma-auto-layout-moi-gan-css-flexbox-hon)
-- [Partial function application PHP 8.6: Mình thử thực tế](https://nghiane.com/partial-function-application-php-86-thuc-te)
 <!-- BLOG-POST-LIST:END -->
