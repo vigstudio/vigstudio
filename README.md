@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Focus indicator WCAG 2.2: Mình đo thay vì nhìn](https://nghiane.com/focus-indicator-wcag-2-2-do-dien-tich-tuong-phan)
 - [GitHub Copilot /security-review: Mình thử trước commit](https://nghiane.com/github-copilot-security-review-truoc-commit)
 - [Material 3 motion physics: Mượt mà vẫn dễ tiếp cận](https://nghiane.com/material-3-motion-physics-reduced-motion)
 - [Cloudflare Workflows tính phí từ 10/8: Mình tính thử](https://nghiane.com/cloudflare-workflows-tinh-phi-tu-10-8)
 - [NBA 2K26 chơi thử miễn phí trên Switch đến 14/8](https://nghiane.com/nba-2k26-choi-thu-mien-phi-switch-den-14-8)
-- [Node.js 26.7: Coverage không còn bỏ sót file chưa test](https://nghiane.com/nodejs-26-7-coverage-khong-bo-sot-file-chua-test)
 <!-- BLOG-POST-LIST:END -->
