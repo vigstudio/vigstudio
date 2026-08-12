@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 12 sắp hết bug fix: Mình kiểm tra đường nâng cấp](https://nghiane.com/laravel-12-het-bug-fix-kiem-tra-nang-cap)
-- [Focus indicator WCAG 2.2: Mình đo thay vì nhìn](https://nghiane.com/focus-indicator-wcag-2-2-do-dien-tich-tuong-phan)
-- [GitHub Copilot /security-review: Mình thử trước commit](https://nghiane.com/github-copilot-security-review-truoc-commit)
-- [Material 3 motion physics: Mượt mà vẫn dễ tiếp cận](https://nghiane.com/material-3-motion-physics-reduced-motion)
-- [Cloudflare Workflows tính phí từ 10/8: Mình tính thử](https://nghiane.com/cloudflare-workflows-tinh-phi-tu-10-8)
+- [Laravel Installer 5.31: Lệnh laravel package có gì?](https://nghiane.com/laravel-installer-5-31-thu-lenh-laravel-package)
+- [Cloudflare Workflows tính phí từ 10/8: Cách tính đúng](https://nghiane.com/cloudflare-workflows-tinh-phi-tu-10-8)
+- [GitHub Copilot /security-review bắt được gì trước commit?](https://nghiane.com/github-copilot-security-review-truoc-commit)
+- [Focus indicator WCAG 2.2: Đo diện tích và tương phản](https://nghiane.com/focus-indicator-wcag-2-2-do-dien-tich-tuong-phan)
+- [Laravel 12 hết bug fix: Kiểm tra đường nâng cấp an toàn](https://nghiane.com/laravel-12-het-bug-fix-kiem-tra-nang-cap)
 <!-- BLOG-POST-LIST:END -->
