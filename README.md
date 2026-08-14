@@ -32,9 +32,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Epic tặng Caravan SandWitch: Nhận trước 20/8](https://nghiane.com/epic-tang-caravan-sandwitch-den-20-8)
+- [CSS contrast-color&lpar;&rpar;: Tự chọn chữ đen hay trắng](https://nghiane.com/css-contrast-color-tu-chon-chu-den-trang)
+- [Laravel 13 Cache::touch&lpar;&rpar;: Gia hạn TTL không ghi lại value](https://nghiane.com/laravel-13-cache-touch-gia-han-ttl)
+- [tuicr: Review code trong terminal có thật sự tiện?](https://nghiane.com/tuicr-review-code-trong-terminal)
 - [Laravel Installer 5.31: Lệnh laravel package có gì?](https://nghiane.com/laravel-installer-5-31-thu-lenh-laravel-package)
-- [Cloudflare Workflows tính phí từ 10/8: Cách tính đúng](https://nghiane.com/cloudflare-workflows-tinh-phi-tu-10-8)
-- [GitHub Copilot /security-review bắt được gì trước commit?](https://nghiane.com/github-copilot-security-review-truoc-commit)
-- [Focus indicator WCAG 2.2: Đo diện tích và tương phản](https://nghiane.com/focus-indicator-wcag-2-2-do-dien-tich-tuong-phan)
-- [Laravel 12 hết bug fix: Kiểm tra đường nâng cấp an toàn](https://nghiane.com/laravel-12-het-bug-fix-kiem-tra-nang-cap)
 <!-- BLOG-POST-LIST:END -->
