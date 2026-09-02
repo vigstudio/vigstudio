@@ -28,6 +28,47 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
   </a>
 </p>
 
+## Featured Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/polirium/polirium">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=polirium&repo=polirium&theme=vue" alt="polirium" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vigstudio/livewire-comments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=livewire-comments&theme=vue" alt="livewire-comments" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vigstudio/vgcomments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vgcomments&theme=vue" alt="vgcomments" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vigstudio/vig-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vig-ai&theme=vue" alt="vig-ai" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vigstudio/vig-reactions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vig-reactions&theme=vue" alt="vig-reactions" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vigstudio/VigClean">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=VigClean&theme=vue" alt="VigClean" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### I am learning blog writings here - [nghiane.com](https://nghiane.com)
 
 # Blog posts
