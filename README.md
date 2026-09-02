@@ -32,39 +32,39 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/polirium/polirium">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=polirium&repo=polirium&theme=vue" alt="polirium" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/polirium/polirium">polirium</a></h3>
+      <p>Nền tảng ERP modular trên Laravel. Kiến trúc module hóa, để doanh nghiệp tự mở rộng và gắn module nghiệp vụ riêng.</p>
+      <p><code>Laravel</code> <code>PHP</code> · ★ 42</p>
     </td>
-    <td>
-      <a href="https://github.com/vigstudio/livewire-comments">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=livewire-comments&theme=vue" alt="livewire-comments" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vigstudio/vgcomments">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vgcomments&theme=vue" alt="vgcomments" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vigstudio/vig-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vig-ai&theme=vue" alt="vig-ai" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vigstudio/livewire-comments">livewire-comments</a></h3>
+      <p>Package comment cho Laravel Livewire: gắn hệ thống bình luận vào Eloquent model, UI realtime ngay trong app.</p>
+      <p><code>Laravel</code> <code>Livewire</code> · ★ 14</p>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/vigstudio/vig-reactions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=vig-reactions&theme=vue" alt="vig-reactions" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vigstudio/vgcomments">vgcomments</a></h3>
+      <p>Package comment backend cho Laravel. Tạo và gắn comment vào bất kỳ Eloquent model nào, dùng được độc lập với UI.</p>
+      <p><code>Laravel</code> <code>PHP</code> · ★ 9</p>
     </td>
-    <td>
-      <a href="https://github.com/vigstudio/VigClean">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigstudio&repo=VigClean&theme=vue" alt="VigClean" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vigstudio/vig-ai">vig-ai</a></h3>
+      <p>Plugin Botble CMS sinh nội dung bằng AI cho bài viết, sản phẩm và SEO ngay trong admin panel.</p>
+      <p><code>Botble CMS</code> <code>AI</code> · ★ 7</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vigstudio/vig-reactions">vig-reactions</a></h3>
+      <p>Plugin reaction kiểu Facebook cho Botble CMS — like, love, haha… gắn được vào bài viết và sản phẩm.</p>
+      <p><code>Botble CMS</code> <code>PHP</code> · ★ 7</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vigstudio/VigClean">VigClean</a></h3>
+      <p>App native macOS viết bằng SwiftUI: dọn rác, gỡ ứng dụng và phân tích dung lượng ổ đĩa.</p>
+      <p><code>SwiftUI</code> <code>macOS</code> · ★ 1</p>
     </td>
   </tr>
 </table>
