@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Botble thumbnail sai kích thước: Tạo lại ảnh an toàn](https://nghiane.com/botble-thumbnail-sai-kich-thuoc-tao-lai-an-toan)
 - [Epic tặng Buried Stars và System Shock 2 đến 8/10](https://nghiane.com/epic-tang-buried-stars-system-shock-2-den-8-10)
 - [Epic tặng Caravan SandWitch: Nhận trước 20/8](https://nghiane.com/epic-tang-caravan-sandwitch-den-20-8)
 - [CSS contrast-color&lpar;&rpar;: Tự chọn chữ đen hay trắng](https://nghiane.com/css-contrast-color-tu-chon-chu-den-trang)
 - [Laravel 13 Cache::touch&lpar;&rpar;: Gia hạn TTL không ghi lại value](https://nghiane.com/laravel-13-cache-touch-gia-han-ttl)
-- [tuicr: Review code trong terminal có thật sự tiện?](https://nghiane.com/tuicr-review-code-trong-terminal)
 <!-- BLOG-POST-LIST:END -->
