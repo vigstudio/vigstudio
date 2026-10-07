@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot dynamic workflows: Có hợp release checklist?](https://nghiane.com/github-copilot-dynamic-workflows-release-checklist)
 - [Form báo lỗi dễ sửa: Error summary, focus và giữ dữ liệu](https://nghiane.com/form-bao-loi-error-summary-focus-giu-du-lieu)
 - [Botble thumbnail sai kích thước: Tạo lại ảnh an toàn](https://nghiane.com/botble-thumbnail-sai-kich-thuoc-tao-lai-an-toan)
 - [Epic tặng Buried Stars và System Shock 2 đến 8/10](https://nghiane.com/epic-tang-buried-stars-system-shock-2-den-8-10)
 - [Epic tặng Caravan SandWitch: Nhận trước 20/8](https://nghiane.com/epic-tang-caravan-sandwitch-den-20-8)
-- [CSS contrast-color&lpar;&rpar;: Tự chọn chữ đen hay trắng](https://nghiane.com/css-contrast-color-tu-chon-chu-den-trang)
 <!-- BLOG-POST-LIST:END -->
