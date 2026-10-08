@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PS Plus tháng 10/2026: Ba game hợp kiểu chơi nào?](https://nghiane.com/ps-plus-thang-10-2026-ba-game-hop-kieu-choi)
 - [Font fallback tiếng Việt: Giảm layout shift bằng size-adjust](https://nghiane.com/font-fallback-tieng-viet-size-adjust-layout-shift)
 - [GitHub Copilot dynamic workflows: Có hợp release checklist?](https://nghiane.com/github-copilot-dynamic-workflows-release-checklist)
 - [Form báo lỗi dễ sửa: Error summary, focus và giữ dữ liệu](https://nghiane.com/form-bao-loi-error-summary-focus-giu-du-lieu)
 - [Botble thumbnail sai kích thước: Tạo lại ảnh an toàn](https://nghiane.com/botble-thumbnail-sai-kich-thuoc-tao-lai-an-toan)
-- [Epic tặng Buried Stars và System Shock 2 đến 8/10](https://nghiane.com/epic-tang-buried-stars-system-shock-2-den-8-10)
 <!-- BLOG-POST-LIST:END -->
