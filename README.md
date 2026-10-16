@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel queue:work --memory theo %: Cấu hình sao cho đúng?](https://nghiane.com/laravel-queue-work-memory-phan-tram)
 - [Botble shortcode động: Test cache và escape an toàn](https://nghiane.com/botble-shortcode-dong-test-cache-escape-an-toan)
 - [Laravel trên PHP 8.6 RC3: Checklist test nâng cấp](https://nghiane.com/laravel-php-8-6-rc3-checklist-test-nang-cap)
 - [Epic tặng Out of Sight và TerraScape đến 15/10](https://nghiane.com/epic-tang-out-of-sight-terrascape-den-15-10)
 - [Laravel 13.35: Chạy toàn bộ scheduler trên một server](https://nghiane.com/laravel-13-35-always-on-one-server-scheduler)
-- [Phân cấp thông tin UI: Audit bằng outline và tác vụ quét](https://nghiane.com/phan-cap-thong-tin-ui-audit-outline-tac-vu-quet)
 <!-- BLOG-POST-LIST:END -->
