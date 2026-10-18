@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions lockfile: Pin dependency thế nào?](https://nghiane.com/github-actions-lockfile-pin-dependency)
 - [Timeline dài cho screen reader: Dùng list hay feed?](https://nghiane.com/timeline-screen-reader-dung-list-hay-feed)
 - [Laravel queue:work --memory theo %: Cấu hình sao cho đúng?](https://nghiane.com/laravel-queue-work-memory-phan-tram)
 - [Botble shortcode động: Test cache và escape an toàn](https://nghiane.com/botble-shortcode-dong-test-cache-escape-an-toan)
 - [Laravel trên PHP 8.6 RC3: Checklist test nâng cấp](https://nghiane.com/laravel-php-8-6-rc3-checklist-test-nang-cap)
-- [Epic tặng Out of Sight và TerraScape đến 15/10](https://nghiane.com/epic-tang-out-of-sight-terrascape-den-15-10)
 <!-- BLOG-POST-LIST:END -->
