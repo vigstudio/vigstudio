@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Epic tặng Bad Cheese và Agent A đến 22/10](https://nghiane.com/epic-tang-bad-cheese-agent-a-den-22-10)
 - [Botble backup: Kiểm tra restore trước khi cần cứu site](https://nghiane.com/botble-backup-kiem-tra-restore-truoc-khi-can-cuu-site)
 - [GitHub Actions lockfile: Pin dependency thế nào?](https://nghiane.com/github-actions-lockfile-pin-dependency)
 - [Timeline dài cho screen reader: Dùng list hay feed?](https://nghiane.com/timeline-screen-reader-dung-list-hay-feed)
 - [Laravel queue:work --memory theo %: Cấu hình sao cho đúng?](https://nghiane.com/laravel-queue-work-memory-phan-tram)
-- [Botble shortcode động: Test cache và escape an toàn](https://nghiane.com/botble-shortcode-dong-test-cache-escape-an-toan)
 <!-- BLOG-POST-LIST:END -->
