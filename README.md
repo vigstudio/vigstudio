@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 13.37: Giảm N+1 trong nested include JSON:API](https://nghiane.com/laravel-json-api-nested-include-giam-n-plus-one)
 - [Steam Next Fest 2026: Chọn demo theo 30 phút rảnh](https://nghiane.com/steam-next-fest-2026-chon-demo-30-phut)
 - [Laravel 13.37: Accessor trả dữ liệu cũ sau update](https://nghiane.com/laravel-accessor-cache-du-lieu-cu-sau-update)
 - [Chrome 157 Beta: text-overflow hiện “xem thêm” ra sao?](https://nghiane.com/chrome-157-text-overflow-chuoi-xem-them)
 - [Botble llms.txt bị 404: Kiểm tra phiên bản và cấu hình](https://nghiane.com/botble-llms-txt-404-kiem-tra-phien-ban-cau-hinh)
-- [Epic tặng Bad Cheese và Agent A đến 22/10](https://nghiane.com/epic-tang-bad-cheese-agent-a-den-22-10)
 <!-- BLOG-POST-LIST:END -->
