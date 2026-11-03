@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Botble cron không chạy trên Hostinger: Kiểm tra 3 lớp](https://nghiane.com/botble-cron-khong-chay-hostinger-kiem-tra-ba-lop)
 - [GOG Story Rich Promo: Chọn game theo cấu hình](https://nghiane.com/gog-story-rich-promo-chon-game-theo-cau-hinh)
 - [PHP vá hai lỗ hổng RCE: Nâng phiên bản nào ngay?](https://nghiane.com/php-va-hai-lo-hong-rce-cap-nhat-phien-ban)
 - [GitHub Package Firewall: Chặn npm trước khi cài](https://nghiane.com/github-package-firewall-chan-npm-truoc-khi-cai)
 - [Laravel 13.37: Giảm N+1 trong nested include JSON:API](https://nghiane.com/laravel-json-api-nested-include-giam-n-plus-one)
-- [Steam Next Fest 2026: Chọn demo theo 30 phút rảnh](https://nghiane.com/steam-next-fest-2026-chon-demo-30-phut)
 <!-- BLOG-POST-LIST:END -->
