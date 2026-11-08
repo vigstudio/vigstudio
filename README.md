@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WCAG 3 reporting tiers: Chưa thay audit WCAG 2.2](https://nghiane.com/wcag-3-reporting-tiers-chua-thay-wcag-2-2)
 - [GitHub CLI token hết hạn: Bật tự refresh thế nào?](https://nghiane.com/github-cli-token-het-han-tu-refresh-oauth)
 - [Laravel 13.38: Tránh đọc dữ liệu cũ từ replica](https://nghiane.com/laravel-13-38-tranh-doc-du-lieu-cu-replica)
 - [Epic đã tặng Home và Sker Ritual đến 29/10](https://nghiane.com/epic-tang-home-sker-ritual-den-29-10)
 - [Botble cron không chạy trên Hostinger: Kiểm tra 3 lớp](https://nghiane.com/botble-cron-khong-chay-hostinger-kiem-tra-ba-lop)
-- [GOG Story Rich Promo: Chọn game theo cấu hình](https://nghiane.com/gog-story-rich-promo-chon-game-theo-cau-hinh)
 <!-- BLOG-POST-LIST:END -->
