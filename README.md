@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WCAG-EM 2.0: Audit app ngoài website theo mẫu nào?](https://nghiane.com/wcag-em-2-audit-app-ngoai-website)
 - [The Séance of Blake Manor lên Game Pass: Hợp ai?](https://nghiane.com/the-seance-of-blake-manor-game-pass-hop-ai)
 - [Laravel 13.38: Worker crash có tính vào maxExceptions?](https://nghiane.com/laravel-13-38-worker-crash-maxexceptions)
 - [PHP 8.6 Time\Duration: Khác DateInterval ra sao?](https://nghiane.com/php-86-time-duration-khac-dateinterval)
 - [Sandbox Runtime 0.0.81 trên Windows: Kiểm gì trước?](https://nghiane.com/anthropic-sandbox-runtime-windows-00181)
-- [WCAG 3 reporting tiers: Chưa thay audit WCAG 2.2](https://nghiane.com/wcag-3-reporting-tiers-chua-thay-wcag-2-2)
 <!-- BLOG-POST-LIST:END -->
