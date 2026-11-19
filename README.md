@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 13.40: Job dùng ms, schedule dùng giây](https://nghiane.com/laravel-job-schedule-chay-lau-mili-giay)
 - [FM27 từng miễn phí tới 1h ngày 4/11: Save giữ được không?](https://nghiane.com/fm27-choi-mien-phi-den-1h-ngay-4-11)
 - [Epic tặng Sorry We&#39;re Closed: Nhận trước 5/11](https://nghiane.com/epic-tang-sorry-were-closed-den-5-11)
 - [Botble Page Cache Beta: Test shadow mode trước khi bật](https://nghiane.com/botble-page-cache-beta-shadow-mode-truoc-khi-bat)
 - [WCAG-EM 2.0: Audit app ngoài website theo mẫu nào?](https://nghiane.com/wcag-em-2-audit-app-ngoai-website)
-- [The Séance of Blake Manor lên Game Pass: Hợp ai?](https://nghiane.com/the-seance-of-blake-manor-game-pass-hop-ai)
 <!-- BLOG-POST-LIST:END -->
