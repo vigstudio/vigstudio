@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PAYDAY 3 từng miễn phí đến 0h 10/11: Save có giữ?](https://nghiane.com/payday-3-choi-mien-phi-den-0h-10-11)
 - [GitHub App token dài 520 ký tự: Kiểm gì trước 30/11?](https://nghiane.com/github-app-token-520-ky-tu-truoc-30-11)
 - [CSS scroll-marker-group: Chọn links hay tabs?](https://nghiane.com/css-scroll-marker-group-links-hay-tabs)
 - [Laravel 13.40: Job dùng ms, schedule dùng giây](https://nghiane.com/laravel-job-schedule-chay-lau-mili-giay)
 - [FM27 từng miễn phí tới 1h ngày 4/11: Save giữ được không?](https://nghiane.com/fm27-choi-mien-phi-den-1h-ngay-4-11)
-- [Epic tặng Sorry We&#39;re Closed: Nhận trước 5/11](https://nghiane.com/epic-tang-sorry-were-closed-den-5-11)
 <!-- BLOG-POST-LIST:END -->
