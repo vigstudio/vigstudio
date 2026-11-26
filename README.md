@@ -73,9 +73,9 @@ Welcome to my page! </br> I'm Nghĩa, Fullstack developer from <img src="https:/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub nhận ACCESSIBILITY.md: Viết gì cho hữu ích?](https://nghiane.com/github-accessibility-md-viet-gi)
 - [CSS content và screen reader: Đừng để nhãn chỉ nằm ở ::before](https://nghiane.com/css-content-screen-reader-text-pseudo-element)
 - [PAYDAY 3 từng miễn phí đến 0h 10/11: Save có giữ?](https://nghiane.com/payday-3-choi-mien-phi-den-0h-10-11)
 - [GitHub App token dài 520 ký tự: Kiểm gì trước 30/11?](https://nghiane.com/github-app-token-520-ky-tu-truoc-30-11)
 - [CSS scroll-marker-group: Chọn links hay tabs?](https://nghiane.com/css-scroll-marker-group-links-hay-tabs)
-- [Laravel 13.40: Job dùng ms, schedule dùng giây](https://nghiane.com/laravel-job-schedule-chay-lau-mili-giay)
 <!-- BLOG-POST-LIST:END -->
